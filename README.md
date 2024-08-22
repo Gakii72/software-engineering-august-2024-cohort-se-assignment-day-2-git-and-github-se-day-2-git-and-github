@@ -1,5 +1,5 @@
 # se-day-2-git-and-github
-Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity? 
 Version control is a system that manages changes to files over time, allowing multiple people to collaborate on a project without overwriting each other's work. Here are some fundamental concepts of version control:
 
 Repositories Repository (Repo): A repository is a storage space for your project. It contains all the files and the history of changes made to those files. Local Repository: A copy of the repository that resides on your local machine. Remote Repository: A repository hosted on a server or cloud service, like GitHub, which can be accessed by multiple users.
